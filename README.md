@@ -127,8 +127,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 ## OUTPUT:
 ### client output:
+![image](https://github.com/kaviya2839/serversideprocessing/assets/120553351/bcea070e-498e-4701-b881-f636cbe47a55)
 
 ### server output:
+![image](https://github.com/kaviya2839/serversideprocessing/assets/120553351/2e86ff98-0249-48a3-b56e-9741cccf6232)
 
 ## Result:
 Thus the program has been executed successfully.
